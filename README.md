@@ -1,6 +1,6 @@
 # melonloader-getting-started
 
-This is a quick guide to getting up and running for developing mods to be used with [MelonLoader](https://melonwiki.xyz/#/) for [VRChat](https://vrchat.com/). I am not in any way affilliated with either VRChat or Team Lava. Note that modifying your game client 'via any method for any reason' is a bannable offense in VRChat, but has historically not been punished consistently. Thank you to (Hector Panzer)² of the VRChat Modding Group Discord for providing me with this information as well as some of the screenshots.
+This is a quick guide to getting up and running for developing mods to be used with [MelonLoader](https://melonwiki.xyz/#/) for [VRChat](https://vrchat.com/). I am not in any way affilliated with either VRChat or Team Lava. Note that modifying your game client 'via any method for any reason' is a bannable offense in VRChat, but has historically not been punished consistently. Thank you to (Hector Panzer)² of the [VRChat Modding Group Discord](https://discord.gg/rCqKSvR) for providing me with this information as well as some of the screenshots.
 
 ## Installation
 
@@ -38,4 +38,4 @@ Now we are ready to go through [MelonLoader Wiki's Quick Start guide](https://me
 
 ![Yay!](/images/success.png)
 
-After completing the quickstart guide, you are now in the position to work on whatever you desire! Use the [Unity Scripting API reference](https://docs.unity3d.com/ScriptReference/) to find out about the parts of the game you want to modify, and join us at the VRChat Modding Group Discord to talk to others in the VRChat modding community.
+After completing the quickstart guide, you are now in the position to work on whatever you desire! Use the [Unity Scripting API reference](https://docs.unity3d.com/ScriptReference/) to find out about the parts of the game you want to modify, and join us at the [VRChat Modding Group Discord](https://discord.gg/rCqKSvR) to talk to others in the VRChat modding community.
